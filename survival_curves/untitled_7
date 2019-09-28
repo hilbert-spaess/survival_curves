@@ -1,0 +1,5 @@
+points = [-1,2]
+vals = [0,0]
+grads = [2,-1]
+bounds = [-Inf,0]
+a = piecewise_exponential(points,vals,grads,bounds)
